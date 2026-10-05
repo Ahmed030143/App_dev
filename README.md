@@ -1,7 +1,7 @@
 # Flutter Basic App – Assignment #01
 
-**Name:** Your Name  
-**Roll Number:** Your Roll Number  
+**Name:** Rafique Ahmed 
+**Roll Number:** 23-BSCS-25
 
 ## Description
 A Flutter application demonstrating basic widgets including Text styling, Column alignment, and Button event handling.
